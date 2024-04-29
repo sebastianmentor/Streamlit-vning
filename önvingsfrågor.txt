@@ -1,0 +1,14 @@
+Här är några övningar! Dessa finns också i hemnet.py för att underlätta!
+
+"""
+## Vi ska här analysera och visa data från Hemnet!
+
+övningar: 
+- Längst ner på den här sidan, huvudsidan alltså, visa hemnetdata i en dataframe!
+- Skapa en sida där vi kan se en scatter på pris mot area! Dvs area = x och pris = y
+- Skapa en sida där vi kan se ett histogram för antalet sålda enheter per komun.
+- Visa också ett histogram för antalet rum per enhet.
+- Skapa en sida där vi kan se totala försäljningen per dag och rita ut det med en linjegraf.
+- Klura ut något eget som kan vara bra att visa upp för att framföra information om hemnet-data. 
+- Skapa en sida som har en karta med kordinaterna för de olika husen. Se till att priset reflekterar storleken! 
+"""
